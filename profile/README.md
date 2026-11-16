@@ -16,3 +16,9 @@ Studio konten video edukasi tentang cara kerja benda di sekitar kita. Dari riset
 - **Animasi dari kode.** Adegan digambar dengan React dan Remotion, jadi bisa diperbaiki dan dirender ulang kapan saja.
 - **Rekaman asli diberi kredit.** Klip video asli diambil dari sumber berlisensi bebas, dan pembuatnya dicatat.
 - **Render otomatis.** Video dirender di GitHub Actions, lalu dikirim untuk dicek sebelum tayang.
+
+## Alat
+
+| Alat | Untuk |
+| --- | --- |
+| [Posmed Community Edition](https://github.com/posmedhq/posmed) | Menjadwalkan video pendek ke YouTube Shorts, Instagram Reels, TikTok, Facebook, dan Threads. Open source dan dipasang sendiri. |
