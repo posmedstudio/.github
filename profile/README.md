@@ -8,7 +8,7 @@ Studio konten video edukasi tentang cara kerja benda di sekitar kita. Dari riset
 
 | | Kanal | Isi | Tonton |
 | --- | --- | --- | --- |
-| <img src="../brand/kanal/rodapedia.png" alt="Logo Rodapedia" width="72"> | **Rodapedia** | Membongkar cara kerja kendaraan bersama Gero si ban dan Oli si tetes oli. Short setiap hari dan Bongkar Tuntas setiap Sabtu. | [YouTube](https://www.youtube.com/@rodapedia) · [TikTok](https://www.tiktok.com/@rodapedia) · [Instagram](https://www.instagram.com/rodapedia) · [Facebook](https://www.facebook.com/rodapedia.official) |
+| <img src="../brand/kanal/rodapedia.png" alt="Logo Rodapedia" width="72"> | **Rodapedia** | Membongkar cara kerja kendaraan bersama Gero si ban dan Ola si tetes oli. Short setiap hari dan Bongkar Tuntas setiap Sabtu. | [YouTube](https://www.youtube.com/@rodapedia) · [TikTok](https://www.tiktok.com/@rodapedia) · [Instagram](https://www.instagram.com/rodapedia) · [Facebook](https://www.facebook.com/rodapedia.official) |
 | <img src="../brand/kanal/ohkokbisa.png" alt="Logo Oh Kok Bisa?" width="72"> | **Oh Kok Bisa?** | Menjawab kenapa hal sehari-hari bisa begitu, dari alam, tubuh, makanan, uang, gadget, sampai kebiasaan, bersama maskot bohlam yang selalu kaget. Short setiap hari. | [YouTube](https://www.youtube.com/@ohkokbisa) · [TikTok](https://www.tiktok.com/@ohkokbisa) · [Instagram](https://www.instagram.com/ohkokbisa) · [Facebook](https://www.facebook.com/ohkokbisa) |
 
 ## Cara kami bekerja
