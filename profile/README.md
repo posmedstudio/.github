@@ -5,7 +5,7 @@
 <h1 align="center">Posmed Studio</h1>
 
 <p align="center">
-  Studio konten video edukasi untuk anak dan keluarga.<br>
+  Studio konten video edukasi tentang cara kerja benda di sekitar kita.<br>
   Dari riset, naskah, animasi, sampai tayang, semuanya dikerjakan dengan kode.
 </p>
 
