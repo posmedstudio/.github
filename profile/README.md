@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="logo.svg" alt="Posmed Studio" width="88" height="88">
+  <img src="../brand/banner.png" alt="Posmed Studio, studio konten video edukasi" width="100%">
 </p>
 
-<h1 align="center">Posmed Studio</h1>
-
-<p align="center">
-  Studio konten video edukasi tentang cara kerja benda di sekitar kita.<br>
-  Dari riset, naskah, animasi, sampai tayang, semuanya dikerjakan dengan kode.
-</p>
+Studio konten video edukasi tentang cara kerja benda di sekitar kita. Dari riset, naskah, animasi, sampai tayang, semuanya dikerjakan dengan kode.
 
 ## Kanal
 
