@@ -9,7 +9,7 @@ File SVG adalah master. PNG dibuat dari SVG dengan `rsvg-convert`.
 | `logo-polos.svg`, `logo-polos-512.png` | logo tanpa latar, untuk ditaruh di atas latar terang |
 | `banner.svg`, `banner.png` | banner profil GitHub, 1500 x 420 |
 
-Warna utama teal `#0b7a6b`, sudut bidik `#cdeee8`, titik rekam `#ff6b57`. Tulisan memakai Inter dengan fitur `cv11` (huruf a satu tingkat), sama seperti Posmed. Di `banner.svg` teksnya sudah diubah jadi path, jadi tampil sama di mana pun tanpa perlu font terpasang. Untuk mengubah teks banner, bentuk ulang teksnya dengan HarfBuzz memakai fitur `cv11`, karena `rsvg-convert` mengabaikan `font-feature-settings`.
+Warna utama indigo `#4f46e5`, sudut bidik `#dcdaff`, titik rekam `#ff6b57`. Tulisan memakai Inter dengan fitur `cv11` (huruf a satu tingkat), sama seperti Posmed. Di `banner.svg` teksnya sudah diubah jadi path, jadi tampil sama di mana pun tanpa perlu font terpasang. Untuk mengubah teks banner, bentuk ulang teksnya dengan HarfBuzz memakai fitur `cv11`, karena `rsvg-convert` mengabaikan `font-feature-settings`.
 
 Contoh membuat ulang PNG
 
